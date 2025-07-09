@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/USDT-Donation-Page/static/css/main.fb01011a.css",
+    "main.js": "/USDT-Donation-Page/static/js/main.33d323c2.js",
+    "static/js/27.4354b0af.chunk.js": "/USDT-Donation-Page/static/js/27.4354b0af.chunk.js",
+    "static/media/bg-1.png": "/USDT-Donation-Page/static/media/bg-1.5411575bcf31f6f46584.png",
+    "index.html": "/USDT-Donation-Page/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fb01011a.css",
+    "static/js/main.33d323c2.js"
+  ]
+}
