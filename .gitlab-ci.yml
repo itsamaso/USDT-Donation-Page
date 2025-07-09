@@ -7,7 +7,7 @@ build:
   stage: build
   variables: 
     # Replace this with your site URL
-    PUBLIC_URL: https://amine2029.gitlab.io/donate
+    PUBLIC_URL: https://itsamaso.github.io/USDT-Donation-Page/
   script:
     - npm install      
     - npm run build
